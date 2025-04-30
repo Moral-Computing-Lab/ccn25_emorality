@@ -4,7 +4,7 @@ Welcome to the official repository for the CCN 2025 workshop: Modelling Emotion 
 Organizers: 
 [Philip A. Kragel](https://www.ecco-lab.org/people) & [Frederic R. Hopp](https://leibniz-psychology.org/forschung-am-zpid/big-data-in-psychology/moral-computing-lab)
 
-Applications are open until June 8th, 2025. **Apply [here]()**
+Applications are open until June 8th, 2025. **Apply [here](https://forms.gle/igcAqVfZAgD4a6Gd6)**
 
 ## Background and Concept
 Understanding the nature and structural organization of emotion and morality has been a central aim for social, cognitive, and affective neuroscience. Decades of research have shown that moral and affective processes are critical for learning, memory, decision-making, and social interactions. Although theorists have long argued that emotions inform moral judgments, few neuroscientific studies have modelled or demonstrated how specific emotions (e.g., anger, disgust, compassion) undergird moral judgments of specific moral domains (e.g., harm, purity, fairness). Moreover, active debates in both affective and moral science independently continue to discuss the dimensional versus categorical basis of (moral) emotions, although collaborative efforts across both fields likely have great potential to jointly advance our understanding of the human brain. Critically, the adoption of computational models and multivariate pattern analysis in these fields provides a unified framework to compare and contrast the representational structure of emotion and morality across minds, brains, and machines. 
