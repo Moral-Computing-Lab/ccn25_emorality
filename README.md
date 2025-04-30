@@ -17,6 +17,25 @@ We look forward to seeing you at CCN25!
 
 Philip and Frederic
 
+## Preliminary Schedule
+| Time            | Item                                |
+|-----------------|-------------------------------------|
+| 11:30 – 12:00   | Introduction & Keynote 1 (Kragel & Hopp) |
+| 12:00 – 14:30   | Research Round 1                    |
+| 14:30 – 14:45   | Break                               |
+| 15:00 – 15:30   | Keynote 2 (Hopp)                    |
+| 15:30 – 17:15   | Research Round 2                    |
+| 17:15 – 17:30   | Break                               |
+| 17:30 – 18:00   | Discussion of Findings              |
+
+## Potential Research Projects
+| Topic                                               | Description |
+|-----------------------------------------------------|-------------|
+| Moral content and discrete emotions                | Are moral judgments of specific moral actions (e.g., physical harm, purity) supported by distinct neural biomarkers of discrete (moral) emotions (e.g., contempt, anger or disgust)? |
+| Neural organization of moral and basic emotions    | Which dimensions and categories capture the neural organization of moral and basic emotions? |
+| Computational models of moral emotions             | How do different feature combinations of stimuli (e.g., perceived intentionality, harm vs. help) as determined by LLMs and LVMs combine to elicit specific moral emotions? |
+
+
 ## References
 - Kragel, P. A., & LaBar, K. S. (2015). Multivariate neural biomarkers of emotional states are categorically distinct. Social Cognitive and Affective Neuroscience, 10(11), 1437-1448.
 - Hopp, F. R., Amir, O., Fisher, J. T., Grafton, S., Sinnott-Armstrong, W., & Weber, R. (2023). Moral foundations elicit shared and dissociable cortical activation modulated by political ideology. Nature Human Behaviour, 7(12), 2182-2198.
