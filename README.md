@@ -34,6 +34,7 @@ Philip and Frederic
 | Moral content and discrete emotions                | Are moral judgments of specific moral actions (e.g., physical harm, purity) supported by distinct neural biomarkers of discrete (moral) emotions (e.g., contempt, anger or disgust)? |
 | Neural organization of moral and basic emotions    | Which dimensions and categories capture the neural organization of moral and basic emotions? |
 | Computational models of moral emotions             | How do different feature combinations of stimuli (e.g., perceived intentionality, harm vs. help) as determined by LLMs and LVMs combine to elicit specific moral emotions? |
+| Emotion and Morality in LLM and Brain            | Can activation patterns in LLMs extracted from moral and emotional stimuli predict brain responses to these stimuli? |
 
 
 ## References
