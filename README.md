@@ -16,3 +16,11 @@ To increase both efficiency and engagement, two months before the conference, we
 We look forward to seeing you at CCN25! 
 
 Philip and Frederic
+
+## References
+- Kragel, P. A., & LaBar, K. S. (2015). Multivariate neural biomarkers of emotional states are categorically distinct. Social Cognitive and Affective Neuroscience, 10(11), 1437-1448.
+- Hopp, F. R., Amir, O., Fisher, J. T., Grafton, S., Sinnott-Armstrong, W., & Weber, R. (2023). Moral foundations elicit shared and dissociable cortical activation modulated by political ideology. Nature Human Behaviour, 7(12), 2182-2198.
+- Kragel, P. A., Reddan, M. C., LaBar, K. S., & Wager, T. D. (2019). Emotion schemas are embedded in the human visual system. Science Advances, 5(7), eaaw4358.
+- Thieu, M. K., Ayzenberg, V., Lourenco, S. F., & Kragel, P. A. (2024). Visual looming is a primitive for human emotion. Iscience, 27(6).
+- Jang, G., & Kragel, P. A. (2025). Understanding human amygdala function with artificial neural networks. Journal of Neuroscience.
+- Lauer, T., Drodz, K., Müller, S. M., & Hopp, F. R. (2025). MoralNet: Visual representations of moral intuitions in artificial and biological neural networks. 
