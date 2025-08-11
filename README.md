@@ -43,4 +43,7 @@ Philip and Frederic
 - Kragel, P. A., Reddan, M. C., LaBar, K. S., & Wager, T. D. (2019). Emotion schemas are embedded in the human visual system. Science Advances, 5(7), eaaw4358.
 - Thieu, M. K., Ayzenberg, V., Lourenco, S. F., & Kragel, P. A. (2024). Visual looming is a primitive for human emotion. Iscience, 27(6).
 - Jang, G., & Kragel, P. A. (2025). Understanding human amygdala function with artificial neural networks. Journal of Neuroscience.
-- Lauer, T., Drodz, K., Müller, S. M., & Hopp, F. R. (2025). MoralNet: Visual representations of moral intuitions in artificial and biological neural networks. 
+- Lauer, T., Drodz, K., Müller, S. M., & Hopp, F. R. (2025). MoralNet: Visual representations of moral intuitions in artificial and biological neural networks.
+
+# Toy Data
+- [Link](https://drive.google.com/drive/folders/1bOiTpbdhotY4n-pzxx_Ukn-aF4FdCEJ6?usp=sharing)
